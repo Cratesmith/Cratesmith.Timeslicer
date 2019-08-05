@@ -1,0 +1,18 @@
+{
+    "name": "Cratesmith.Timeslicer",
+    "references": [
+        "Cratesmith.Utils",
+        "Cratesmith.ScriptExecutionOrder",
+        "GUID:2a117f0f9e382804ebce00c69a615c0d",
+        "Cratesmith.Actors"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": []
+}
