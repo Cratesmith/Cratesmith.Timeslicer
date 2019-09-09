@@ -2,7 +2,7 @@
 	"name": "com.cratesmith.timeslicer",
 	"displayName": "Cratesmith.Timeslicer",
 	"description": "A system for scheduling main-thread updates and preventing coroutine framespikes in Unity3d",
-	"version": "0.0.1-develop",
+	"version": "0.0.2",
 	"unity": "2018.3",
 	"license": "MIT",
 	"repository": {
@@ -12,7 +12,7 @@
 	"src": "Packages/Cratesmith.Timeslicer",
 	"author": "Kieran Lord <cratesmith@cratesmith.com> (https://github.com/cratesmith)",
 	"dependencies": {
-		"com.cratesmith.utils": "https://github.com/Cratesmith/Cratesmith.Utils#0.0.1-develop",
-		"com.cratesmith.actors": "https://github.com/Cratesmith/Cratesmith.Actors#0.0.1-develop"
+		"com.cratesmith.utils": "https://github.com/Cratesmith/Cratesmith.Utils#0.0.2",
+		"com.cratesmith.actors": "https://github.com/Cratesmith/Cratesmith.Actors#0.0.2"
 	}
 }
