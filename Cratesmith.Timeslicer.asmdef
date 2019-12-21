@@ -1,11 +1,11 @@
 {
     "name": "Cratesmith.Timeslicer",
     "references": [
-        "Cratesmith.Utils",
+        "Cratesmith.Collections",
         "Cratesmith.ScriptExecutionOrder",
-        "Cratesmith.Actors"
+        "Cratesmith.Actors",
+        "Cratesmith.Utils"
     ],
-    "optionalUnityReferences": [],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
